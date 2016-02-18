@@ -1,0 +1,12 @@
+---
+published: true
+title: Home
+layout: post
+---
+JAGUAR is sixth-generation application software, to be used with the Perseus SDR hardware, covering the medium-wave broadcast band. The actual frequency range is defined by a user-settable center frequency – the default center frequency is set to 1000 kHz by default, with an effective recording bandwidth of 1.6 MHz (a sampling rate of 2 MHz) from 200 kHz (longwaves) to 1800 kHz (mediumwaves).
+
+The JAGUAR executable is extremely compact, approximately 850 kB, so it’s easily portable and can be run even from a USB disk. JAGUAR has been developed with the C programming language.
+
+JAGUAR is an ideal application for both beginners and the most experienced top-notch MW DXers. Most remarkably, JAGUAR can be controlled with a mouse but also with arrow and keyboard keys. Also, the user interface is streamlined to only show the bare essentials, nothing more.
+
+In a nutshell, JAGUAR does feature several innovative techniques and solutions which make your MW listening experience more productive.
